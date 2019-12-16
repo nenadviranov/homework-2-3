@@ -1,0 +1,54 @@
+/* First div */
+.class1 {
+    width: 50%;
+    background-color: rgb(212, 212, 211);
+    text-align: center;
+}
+
+.input1 input {
+    width: 150px;
+    padding: 10px 5px;
+    margin: 50px 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: transparent;
+ }
+/* Second div*/
+
+ .class2 {
+     width: 50%;
+     background-color: skyblue;
+     text-align: center;
+     
+ }
+
+ .input2 input{
+
+    width: 150px;
+    margin: 50px 20px;
+    text-align: center;
+    padding: 10px 5px;
+    border: 2px solid white; 
+    border-radius: 50px;
+    background-color: transparent;
+    color: white;
+ }
+
+ /* Third div */
+ .class3 {
+     width: 50%;
+     background-color: rgb(75, 70, 70);
+     text-align: center;
+ }
+
+ .input3 input {
+     width: 150px;
+     margin: 50px 20px;
+     text-align: center;
+     padding: 10px 5px;
+     border: 1px solid white;
+     background-color: transparent;
+     color: rgb(95, 72, 226);
+    
+     
+ }
